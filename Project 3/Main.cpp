@@ -1,15 +1,3 @@
-/*  Program: Project 3
-    Author: Idenia Ayala
-    Class: CSCI 220
-    Date: 10/31/2019
-    Description:
-
-    I certify that the code below is my own work.
-
-     Exception(s): N/A
-
-*/
-
 #include <iostream>
 #include <iomanip>
 #include "NodeList.h"
@@ -19,7 +7,7 @@ using namespace std;
 int main()
 {
 
-     cout << "Idenia Ayala's Simple Text Editor\n";
+     cout << "Idenia's Simple Text Editor\n";
      int pos;            // holds position to go to
      int currPos;        // holds current position
      int opt;            // holds user option
