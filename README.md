@@ -1,7 +1,6 @@
 # SimpleTextEditor
 Class Project
 
-A simple text editor that stores a string of characters using a List. 
 The text editor has a menu that allows user to move cursor (>) from left to right,
 insert or delete characters, go to or get a position, display the string and number of characters, 
 or quit the program.
